@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42777'
     url: http://www.gutenberg.org/2009/agents/42777
 description: Illustrated by the editor.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44471#Life-Aboard-a-British-Privateer-in-the-Time-of-Queen-AnneBeing-the-Journal-of-Captain-Woodes-_
 gutenberg_issued: '2013-12-20'
 gutenberg_type: Text
 identifiers:
