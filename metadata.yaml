@@ -1,0 +1,36 @@
+_repo: Life-Aboard-a-British-Privateer-in-the-Time-of-Queen-AnneBeing-the-Journal-of-Captain-Woodes-__44471
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44471-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rogers, Woodes
+    deathdate: 1732
+    gutenberg_agent_id: '42252'
+    url: http://www.gutenberg.org/2009/agents/42252
+  editor:
+    agent_name: Leslie, Robert C. (Robert Charles)
+    alias: Leslie, Robert Charles
+    birthdate: 1826
+    deathdate: 1901
+    gutenberg_agent_id: '42777'
+    url: http://www.gutenberg.org/2009/agents/42777
+description: Illustrated by the editor.
+gutenberg_issued: '2013-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44471'
+  lccn: '2012658738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages around the world -- Early works to 1800'
+- !lcsh 'Privateering -- Early works to 1800'
+title: 'Life Aboard a British Privateer in the Time of Queen Anne
+
+  Being the Journal of Captain Woodes Rogers, Master Mariner'
+url: http://www.gutenberg.org/ebooks/44471
